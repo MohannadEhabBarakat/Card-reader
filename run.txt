@@ -1,0 +1,1 @@
+g++ -std=c++17 Card.cpp Reader.cpp Action.cpp Enter.cpp Leave.cpp Main_System.cpp Main.cpp –o System
