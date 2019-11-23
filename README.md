@@ -6,3 +6,8 @@ Implement the needed C++ classes that model this problem.  Your code will be use
 Your class should provide all the needed constructors and destructor, in addition to implementing the following methods: 1. Allow class users to reserve and avail classroom seats. 2. Implement a method that checks if a specific seat is occupied in any particular class. 3. Implement a method that returns the number of available seats in a specific class at any point in time. 4. Inquire about the location of the student.  
 Apply all validations that you see viable, and again, your class should be self contained and should not use the C++ STL or STD libraries, but should be based on built-in C++ types.  
 Note: you can consider that all the eight card readers are synchronized 
+
+## To compute & excute 
+please run the commaned in file "run.txt" in the shiel. 
+
+*note: this works only on linux*
